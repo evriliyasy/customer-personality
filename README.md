@@ -1,8 +1,10 @@
-#Laporan Proyek Machine Learning
+# Laporan Proyek Machine Learning
 
-Nama : Evriliya Syah Utami
+# Nama : Evriliya Syah Utami
 
-Kelas : Pagi A
+# Nim : 211351051
+
+# Kelas : TIF Pagi A
 
 # Domain Proyek
 
